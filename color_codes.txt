@@ -1,0 +1,5 @@
+#cc00ff
+rgb(204,0,255)
+Vivid Orchid
+Magenta 
+White
